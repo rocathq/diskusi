@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/In79Sfu.png"></p>
+<p align="left"><img src="https://i.imgur.com/In79Sfu.png"></p>
 
 ## Diskusi
 
