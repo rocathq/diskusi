@@ -1,7 +1,5 @@
 <p align="left"><img src="https://i.imgur.com/In79Sfu.png"></p>
-
-## Diskusi
-
+---
 Diskusi is an open source discussion system.
 
 ## Status
